@@ -1,0 +1,13 @@
+Make an file called input_bams.fof containing the full paths of the
+bam files.  One line per bam file.  OK to have wildcards.  (just for
+Melanie)
+
+Then type:
+
+source source_this_file_first.sh
+doItAll.sh
+
+
+
+
+
