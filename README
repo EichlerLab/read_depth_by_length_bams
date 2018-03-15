@@ -1,4 +1,4 @@
-Make an file called input_bams.fof containing the full paths of the
+Make a file called input_bams.fofn containing the full paths of the
 bam files.  One line per bam file.  OK to have wildcards.  (just for
 Melanie)
 
